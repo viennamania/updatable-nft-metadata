@@ -1,30 +1,41 @@
 {
   "nfts": [
+
     {
-      "id": 63,
-      "name": "Whooptang #63",
-      "description": "Granderby NFT Horses",
-      "external_url": "https://granderby.com",
-      "Age": "34",
-      "Grade": "5",
-      "Size": "normal",
-      "Speed": "53",
-      "Training": "34",
-      "Trend": "5",
-      "image": "https://i.seadn.io/gcs/files/491a50814ca53073ba9826574dba751c.png?auto=format&dpr=1&w=1000"
+      "id": "65",
+      "name":"Whooptang #65",
+      "description":"Granderby NFT Horses",
+      "image":"https://i.seadn.io/gcs/files/491a50814ca53073ba9826574dba751c.png?auto=format&dpr=1&w=1000",
+      "attributes":
+      [
+        {"trait_type":"Size","value":"large"},
+        {"trait_type":"Age","value":"22","display_type":"number"},
+        {"trait_type":"Grade","value":"5","display_type":"number"},
+        {"trait_type":"Training","value":"65","display_type":"number"},
+        {"trait_type":"Trend","value":"7","display_type":"number"},
+        {"trait_type":"Speed","value":"46","display_type":"number","max_value":100.0},
+        {"trait_type":"Overtaking","value":"78","display_type":"number","max_value":100.0},
+        {"display_type":"boost_number","trait_type":"S-Karrots","value":0}
+      ]
     },
+
     {
-      "id": 64,
-      "name": "Affectionate One #64",
-      "description": "Granderby NFT Horses",
-      "external_url": "https://granderby.com",
-      "Age": "22",
-      "Grade": "7",
-      "Size": "large",
-      "Speed": "41",
-      "Training": "87",
-      "Trend": "7",
-      "image": "https://i.seadn.io/gcs/files/63a18be4884d8116096fe34180c6ca36.png?auto=format&dpr=1&w=1000"
+      "id": "66",
+      "name":"Whooptang #66",
+      "description":"Granderby NFT Horses",
+      "image":"https://i.seadn.io/gcs/files/491a50814ca53073ba9826574dba751c.png?auto=format&dpr=1&w=1000",
+      "attributes":
+      [
+        {"trait_type":"Size","value":"large"},
+        {"trait_type":"Age","value":"42","display_type":"number"},
+        {"trait_type":"Grade","value":"6","display_type":"number"},
+        {"trait_type":"Training","value":"45","display_type":"number"},
+        {"trait_type":"Trend","value":"9","display_type":"number"},
+        {"trait_type":"Speed","value":"77","display_type":"number","max_value":100.0},
+        {"trait_type":"Overtaking","value":"45","display_type":"number","max_value":100.0},
+        {"display_type":"boost_number","trait_type":"S-Karrots","value":0}
+      ]
     }
+
   ]
 }
