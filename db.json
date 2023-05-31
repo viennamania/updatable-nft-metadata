@@ -1,30 +1,13 @@
 {
   "nfts": [
 
- 
-    {
-      "id": "69",
-      "name":"Whooptang #69",
-      "description":"Granderby NFT Horses",
-      "image":"https://i.seadn.io/gcs/files/491a50814ca53073ba9826574dba751c.png?auto=format&dpr=1&w=1000",
-      "attributes":
-      [
-        {"trait_type":"Size","value":"large"},
-        {"trait_type":"Age","value":"22","display_type":"number"},
-        {"trait_type":"Grade","value":"5","display_type":"number"},
-        {"trait_type":"Training","value":"65","display_type":"number"},
-        {"trait_type":"Trend","value":"7","display_type":"number"},
-        {"trait_type":"Speed","value":"46","display_type":null,"max_value":"100.0"},
-        {"trait_type":"Overtaking","value":"78","display_type":null,"max_value":"100.0"},
-        {"trait_type":"S-Karrots","value":0,"display_type":"boost_number"}
-      ]
-    },
+
 
     {
-      "id": "70",
-      "name":"Whooptang #70",
+      "id": "0",
+      "name":"Whooptang #0",
       "description":"Granderby NFT Horses",
-      "image":"https://i.seadn.io/gcs/files/491a50814ca53073ba9826574dba751c.png?auto=format&dpr=1&w=1000",
+      "image":"https://granderby-delta.vercel.app/Hrs_00006000.png",
       "attributes":
       [
         {"trait_type":"Size","value":"large"},
@@ -39,7 +22,6 @@
         {"trait_type":"S-Karrots","value":5,"display_type":"boost_number"}
       ]
     }
-
 
 
   ]
