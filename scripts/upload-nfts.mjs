@@ -7,7 +7,7 @@ const sdk = ThirdwebSDK.fromPrivateKey(process.env.PRIVATE_KEY, "mumbai");
 
 const addNFTs = async () => {
   const drop = await sdk.getContract(
-    "0x40739224a8818C381acaeAe2c620eeD84fEd35F2",
+    "0xa048448153712f72714c9d8A17d449E4445Ae3a7",
     "nft-drop"
   );
 
