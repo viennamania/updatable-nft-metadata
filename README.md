@@ -46,8 +46,8 @@ Finally, we batch upload the NFTs using the centralized metadata files:
 ```js
 try {
   await drop.createBatch([
-    "https://my-json-server.typicode.com/thirdweb-dev/updatable-nft-metadata/nfts/0",
-    "https://my-json-server.typicode.com/thirdweb-dev/updatable-nft-metadata/nfts/1",
+    "https://my-json-server.typicode.com/viennamania/updatable-nft-metadata/nfts/0",
+    "https://my-json-server.typicode.com/viennamania/updatable-nft-metadata/nfts/1",
   ]);
   console.log("uploaded all nfts");
 } catch (error) {
@@ -58,3 +58,7 @@ try {
 ## Join our Discord!
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+
+
+https://my-json-server.typicode.com/viennamania/updatable-nft-metadata/nfts/0
+https://my-json-server.typicode.com/viennamania/updatable-nft-metadata/nfts/1

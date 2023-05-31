@@ -2,14 +2,28 @@
   "nfts": [
     {
       "id": 0,
-      "name": "Blue Circle",
-      "description": "A blue circle NFT from the Shapes Collection",
+      "name": "Whooptang #0",
+      "description": "Granderby NFT Horses",
+      "external_url": "https://granderby.com",
+      "Age": "34",
+      "Grade": "5",
+      "Size": "normal",
+      "Speed": "53",
+      "Training": "34",
+      "Trend": "5",
       "image": "https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/0.png"
     },
     {
       "id": 1,
-      "name": "Green Circle",
-      "description": "A green circle NFT from the Shapes Collection",
+      "name": "Affectionate One #1",
+      "description": "Granderby NFT Horses",
+      "external_url": "https://granderby.com",
+      "Age": "22",
+      "Grade": "7",
+      "Size": "large",
+      "Speed": "41",
+      "Training": "87",
+      "Trend": "7",
       "image": "https://gateway.ipfscdn.io/ipfs/QmXXjx3aJCs9W9mN35Aade6etSoceqMk8ykkasbB87MaLt/1.png"
     }
   ]
