@@ -14,7 +14,11 @@ const addNFTs = async () => {
 
   try {
     await drop.createBatch([
-      "https://my-json-server.typicode.com/viennamania/updatable-nft-metadata/nfts/0",
+      "https://my-json-server.typicode.com/viennamania/updatable-nft-metadata/nfts/1",
+      "https://my-json-server.typicode.com/viennamania/updatable-nft-metadata/nfts/2",
+      "https://my-json-server.typicode.com/viennamania/updatable-nft-metadata/nfts/3",
+      "https://my-json-server.typicode.com/viennamania/updatable-nft-metadata/nfts/4",
+      "https://my-json-server.typicode.com/viennamania/updatable-nft-metadata/nfts/5",
     ]);
     console.log("uploaded all nfts");
   } catch (error) {
